@@ -1,0 +1,110 @@
+# CompTIA Security+ Certification Bootcamp
+
+1. Introduction  [s1.html]
+    001. CompTIA Security+ Certification Bootcamp  ->  https://drive.google.com/file/d/1neQWMxkMLej8YQVC5dt1kr61LFYIOxyu/preview
+
+2. Introduction to Security Basics  [s2.html]
+    001. Introduction  ->  https://drive.google.com/file/d/1qI-Vg1WNU-BR_QaHJhuK2pYy67f8JvKZ/preview
+    002. What Is Security+  ->  https://drive.google.com/file/d/1qMwSBy8_Suycugj_3PI9B_13rnRpoC1F/preview
+    003. How To Succeed  ->  https://drive.google.com/file/d/1qTsYjMF8cn764Fdhy_jKKmXehCesAyYT/preview
+    004. Security Basics and CIA Triangle  ->  https://drive.google.com/file/d/1qVzffI3jAYX6O427COVi07MyDNKqMv_-/preview
+
+3. Authentication and Access Control  [s3.html]
+    001. The Power of Control Different Types of Control  ->  https://drive.google.com/file/d/1qn6Dys5SF1WwbjteZojNi-qgukCyei_6/preview
+    002. Different Types of Identity - Identification  ->  https://drive.google.com/file/d/1qp-msIi2QbanZscJmGqpZa48_6PPCZyB/preview
+    003. Account Access Control and Privilege Management  ->  https://drive.google.com/file/d/1qqaT1aNohRS0Hv93uX0AfdguqmzFUVO0/preview
+    004. File Access Control Windows Linux  ->  https://drive.google.com/file/d/1r-7nbZcTUSG_Zvpec2JBGT8zOwPeGluU/preview
+    005. AAA Servers  ->  https://drive.google.com/file/d/1qYKhwa4xBM-7wh3QKRfGfpf7hrhQj-_c/preview
+    006. Different Types of Authentication and Authentication Management  ->  https://drive.google.com/file/d/1qi0Orw9DOgZPLDINi0_NjsJShVD5dkhT/preview
+    007. Different Existing Authentication and Authorization Mechanisms  ->  https://drive.google.com/file/d/1qiAE7AGgjjRxmTdl0vRmSYBdm_oZXnel/preview
+    008. Account Control Practices and Policies  ->  https://drive.google.com/file/d/1qieZmgLuGdsjvaFr4oONTNvmTLUl0cBp/preview
+
+4. Secure Network Design and Concept  [s4.html]
+    001. OSI Model  ->  https://drive.google.com/file/d/1r333Jea1lTIoDUTFpemOUKsusYpt0bpO/preview
+    002. Honeypots Proxy Servers Jump Servers Load Balancers  ->  https://drive.google.com/file/d/1r3jTu0ScAkmz9fOI47ctYAltFR9Qx_73/preview
+    003. Routers Switches ACL Loop Protection  ->  https://drive.google.com/file/d/1r7ZTh-by2IuRrNxoDCX-7RgOte0mcVLx/preview
+    004. Firewalls  ->  https://drive.google.com/file/d/1r7eNRFsbOMVffw81MN-ehsV8KmQnzl0f/preview
+    005. Network Segmentation  ->  https://drive.google.com/file/d/1rBxeKqrloOP3YFAp0RDu2l8LLLrQPoK-/preview
+    006. IDS IPS NAC  ->  https://drive.google.com/file/d/1rIHDHRXGFrtLtNM9J6vzgj9oEr3d793w/preview
+    007. DNS DNS Security  ->  https://drive.google.com/file/d/1rNYevJPwFBK1yKQVl_i7jpnhuPA7WiO_/preview
+    008. IP Addresses  ->  https://drive.google.com/file/d/1rSY2PHqiG3h0BUo3L-1jd2ugCBNNqhDf/preview
+    009. Dynamic Host Configuration Protocol DHCP  ->  https://drive.google.com/file/d/1rTWGrQjTaXPEXd5MFRS2XrojETlDJm6x/preview
+    010. Virtual Private Network VPN  ->  https://drive.google.com/file/d/1rVIOADQEdRyweqd1nfPWeGJhQsennPjm/preview
+    011. Networking Tools - Commands  ->  https://drive.google.com/file/d/1rWi6TZguT20A9YZF23u_Qb1JHLYt6D3H/preview
+    012. File Manipulation Tools - Commands  ->  https://drive.google.com/file/d/1rbmGxa9QXZgTcA8UWDd3It5NFzMOrHCP/preview
+    013. Forensic Tools - Commands  ->  https://drive.google.com/file/d/1rg9PZGhZIfozKI3EG-M3TJQ3xTyInwDo/preview
+
+5. Security Protocols  [s5.html]
+    001. Transmission Control Protocol TCP and User Datagram Protocol UDP  ->  https://drive.google.com/file/d/1rjD3VxffWidp83N5HRKpIwU7sEoQbo4m/preview
+    002. Unsecure Protocols  ->  https://drive.google.com/file/d/1rja8CcsT9WwYkpU3VLHycBtuiQe-HlkP/preview
+    003. Secure Protocols  ->  https://drive.google.com/file/d/1rkl1xEoh5RtQ5tFy4F3VeXBZSQnawLQr/preview
+
+6. Wireless and Mobile Security  [s6.html]
+    001. Wireless Infrastructure  ->  https://drive.google.com/file/d/1rmTIQ2jbNy0J2kVmSLLmfLDgIgs7CQSz/preview
+    002. Wireless Encryption and Threats  ->  https://drive.google.com/file/d/1rzpDiz4DXbe5Qplwfc__yWuP23HcOT9r/preview
+    003. Wireless Authentication Protocols  ->  https://drive.google.com/file/d/1s42Z3Vo6PuA3X8u2EDvRw1K44zNVRbND/preview
+    004. Mobile Device Connection and Communication Methods  ->  https://drive.google.com/file/d/1sFxJhDHTed6vkjlo5_x2D_KGKOOfql5i/preview
+    005. Mobile Device Management  ->  https://drive.google.com/file/d/1sHk0zVHMjYFn2IufbjuqjMuD7qXlpW4_/preview
+    006. Mobile Device Monitoring and Protection  ->  https://drive.google.com/file/d/1scT7m-G5kCKEj_rRFI4vMqE3Dt8kYqIg/preview
+
+7. Virtualization and Cloud Security  [s7.html]
+    001. Virtualization Theory  ->  https://drive.google.com/file/d/1seRfXu5ePvEi86oceSV15pXM1Cvbjwrz/preview
+    002. Virtual Box Demonstration  ->  https://drive.google.com/file/d/1sfGUdlb1_HiKCwNVUntAw4oDZwogYt2N/preview
+    003. Cloud Technology  ->  https://drive.google.com/file/d/1sk6VAkKjUxwhtNh8ZHMpqYKYS9V6nkVI/preview
+    004. Cloud Services  ->  https://drive.google.com/file/d/1skvnYnHh0VJxC9_ceSiycP8JxmBQw3uk/preview
+    005. Storing Data in Cloud and Cloud Security  ->  https://drive.google.com/file/d/1sqiYmPcqsBrViza8YahvSmkCyLxUPVih/preview
+
+8. Physical Security and Facilities Security  [s8.html]
+    001. Physical Security  ->  https://drive.google.com/file/d/1t7HKDTmCAMurxj_lAfCkDZ2hvWl6o38T/preview
+
+9. Monitoring Scanning Hacking  [s9.html]
+    001. What is Penetration Testing  ->  https://drive.google.com/file/d/1t8WrSEu-rzmGxJfiDgvi_lJGkyDektEL/preview
+    002. Different Phases of a Penetration Test  ->  https://drive.google.com/file/d/1tAgkWZ5aUbe5r5BkO9uxndS6-gA47KYW/preview
+    003. Different Teams in Cyber Security  ->  https://drive.google.com/file/d/1tIGZ-sJuf_vgj9S9y3AijG7UnK2hzv0K/preview
+    004. Vulnerabilities  ->  https://drive.google.com/file/d/1tLWRUBaq_yBzwJHwR3gYysraZ1yteBoY/preview
+    005. Monitoring  ->  https://drive.google.com/file/d/1tLrCXPUu2xODp0B0Q56RUNofJBaOaBvG/preview
+    006. Exercise Imposter Syndrome  ->  https://drive.google.com/file/d/1taj9d4TdKswP5otme_6BMtblmI3FaZaH/preview
+
+10. Threats Attacks Vulnerabilities  [s10.html]
+    001. Different Types of Attackers  ->  https://drive.google.com/file/d/1njOOU2PlYWNxJGm5PqgjW-bL-Qyhw5bj/preview
+    002. Different Types of Malware  ->  https://drive.google.com/file/d/1nplan2aWLux-iWOq9RzAZT_2cpsT9A2F/preview
+    003. Social Engineering Phishing  ->  https://drive.google.com/file/d/1nsZDoniC27JcsNXYp8h4HQUf5VNL-Fko/preview
+    004. Network Attacks  ->  https://drive.google.com/file/d/1nt7XsdDY2u46Qxjmxle5ZdoL_dVd9tqm/preview
+    005. Physical Attacks  ->  https://drive.google.com/file/d/1oAwkKLEdgx62LLNbyCryn3kMJYeCYDh6/preview
+    006. Password Attacks  ->  https://drive.google.com/file/d/1oHdqolvV99jXqBuXFwl1mk0LVbFjooNS/preview
+    007. Overflow Attacks Pointer Dereference Error Handling  ->  https://drive.google.com/file/d/1oOdtc1VrnweYf54upVuccFKEj44JaCu3/preview
+    008. Application Attacks Injection Attacks  ->  https://drive.google.com/file/d/1oVr_2XIXZVGjXFaBMSstaZ4XfR_Rss6R/preview
+    009. Zero Days and Weak Configurations  ->  https://drive.google.com/file/d/1o_qOuwpSKmHXkp9dWkyaFRVktp-FwR-O/preview
+    010. Hijacking Attacks  ->  https://drive.google.com/file/d/1oeUnTAHvvbKlBz01SjC1XrKAg_fzZ_bb/preview
+    011. Cryptographic Attacks  ->  https://drive.google.com/file/d/1oemMGOCqs8c1aBD3qknQNmzKImrYX1i9/preview
+    012. Third Party Attacks  ->  https://drive.google.com/file/d/1okioIGvV4WRdUpNlzTperdpwtO1jJ9vR/preview
+
+11. System Hardening and Application Testing  [s11.html]
+    001. Host Security Boot  ->  https://drive.google.com/file/d/1onyM0c9MZHUn6UhztEW_qpbcOw-F4cLG/preview
+    002. Endpoint Protection Strategy  ->  https://drive.google.com/file/d/1osxUukpMDuWrO41yHXdoiOvRwDiwcf7N/preview
+    003. System Hardening  ->  https://drive.google.com/file/d/1otSvyOZXUn0bzN3EPvstykMCLbKOvF6U/preview
+    004. Inbuilt Devices and Specialized Devices  ->  https://drive.google.com/file/d/1oz_lBDlKyBhgJ-UwRNBOFnSuzPMBs5BY/preview
+    005. Secure Application Development and Secure Coding  ->  https://drive.google.com/file/d/1p9q7vE4AaahG9Cx9T6ixAfMCZTmHsllH/preview
+
+12. Risk Management  [s12.html]
+    001. Concept of Risk and Risk Types  ->  https://drive.google.com/file/d/1pBOkt6_tb9of0hNNeIup0oJJECAbfjAF/preview
+    002. Risk Control and Analysis  ->  https://drive.google.com/file/d/1pCgYyS-2L8L3LcbSzT9bePh6RSnvENM1/preview
+    003. Business Impact Analysis  ->  https://drive.google.com/file/d/1pSdGI3Uix5daYHi-2i_moFjYNR7tKV4_/preview
+    004. Security Information Groups and Sources  ->  https://drive.google.com/file/d/1pShtZ09QYMkiZNxxxioK8_dVjlbjjhhW/preview
+    005. Facility Policies and Rules  ->  https://drive.google.com/file/d/1pSvTflkMHVpor-Xqt-ZkPuYeJSxGOABA/preview
+    006. Laws and Standards  ->  https://drive.google.com/file/d/1pdmT1VZChHU5tWPhuuPebijphic_aNtZ/preview
+    007. Data Handling  ->  https://drive.google.com/file/d/1pfgxSyC53p6ucva2WYoXOZsHnbpOIvhW/preview
+
+13. Incident Responding and Forensics  [s13.html]
+    001. Incident Response and Recovery Practices  ->  https://drive.google.com/file/d/1pgSgGIKBCe1gQFBueLC9Ca5trOmlViMj/preview
+    002. Information Gathering for Incident Response  ->  https://drive.google.com/file/d/1pgT7tZUcaR1RzfnBEiRJm2JtLUpLTWHD/preview
+    003. Controls and Techniques for Lowering Risk  ->  https://drive.google.com/file/d/1pgb5vuyZOf5xJ6eW5BXqhKb5e1knrEo4/preview
+    004. Redundancy and Tolerance  ->  https://drive.google.com/file/d/1pw0LqKlIn1HHY3EuAlSUL8psr5gaPFfS/preview
+
+14. Cryptography and Public Key Infrastructure PKI  [s14.html]
+    001. Symmetric and Asymmetric Encryption  ->  https://drive.google.com/file/d/1q-cwhI5SSet1KDE7NDsNjWW3WFFtvGe4/preview
+    002. Concept of Public Key Infrastructure  ->  https://drive.google.com/file/d/1q-vkdD-rFZWBvhPa8cZRgP-rOuoLAXZ2/preview
+    003. Important Cryptographic Terms and Concepts  ->  https://drive.google.com/file/d/1q3HgLpRJV2hbwoV8AC74RdC3cQdmgsqO/preview
+
+15. Where To Go From Here  [s15.html]
+    001. Thank You  ->  https://drive.google.com/file/d/1qItvbUXqF8HqllCZtXGuyHxYekMsPoPV/preview

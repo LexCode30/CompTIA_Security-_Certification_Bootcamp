@@ -1,0 +1,667 @@
+{
+  "name": "CompTIA Security+ Certification Bootcamp",
+  "slug": "CompTIA_Security-_Certification_Bootcamp",
+  "url": "https://LexCode30.github.io/CompTIA_Security-_Certification_Bootcamp/",
+  "category": "cybersecurity",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "CompTIA Security+ Certification Bootcamp",
+          "id": "1neQWMxkMLej8YQVC5dt1kr61LFYIOxyu",
+          "anchor": "v-1neQWMxkMLej8YQVC5dt1kr61LFYIOxyu",
+          "href": "s1.html#v-1neQWMxkMLej8YQVC5dt1kr61LFYIOxyu"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Introduction to Security Basics",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1qI-Vg1WNU-BR_QaHJhuK2pYy67f8JvKZ",
+          "anchor": "v-1qI-Vg1WNU-BR_QaHJhuK2pYy67f8JvKZ",
+          "href": "s2.html#v-1qI-Vg1WNU-BR_QaHJhuK2pYy67f8JvKZ"
+        },
+        {
+          "number": 2,
+          "title": "What Is Security+",
+          "id": "1qMwSBy8_Suycugj_3PI9B_13rnRpoC1F",
+          "anchor": "v-1qMwSBy8_Suycugj_3PI9B_13rnRpoC1F",
+          "href": "s2.html#v-1qMwSBy8_Suycugj_3PI9B_13rnRpoC1F"
+        },
+        {
+          "number": 3,
+          "title": "How To Succeed",
+          "id": "1qTsYjMF8cn764Fdhy_jKKmXehCesAyYT",
+          "anchor": "v-1qTsYjMF8cn764Fdhy_jKKmXehCesAyYT",
+          "href": "s2.html#v-1qTsYjMF8cn764Fdhy_jKKmXehCesAyYT"
+        },
+        {
+          "number": 4,
+          "title": "Security Basics and CIA Triangle",
+          "id": "1qVzffI3jAYX6O427COVi07MyDNKqMv_-",
+          "anchor": "v-1qVzffI3jAYX6O427COVi07MyDNKqMv_-",
+          "href": "s2.html#v-1qVzffI3jAYX6O427COVi07MyDNKqMv_-"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Authentication and Access Control",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "The Power of Control Different Types of Control",
+          "id": "1qn6Dys5SF1WwbjteZojNi-qgukCyei_6",
+          "anchor": "v-1qn6Dys5SF1WwbjteZojNi-qgukCyei_6",
+          "href": "s3.html#v-1qn6Dys5SF1WwbjteZojNi-qgukCyei_6"
+        },
+        {
+          "number": 2,
+          "title": "Different Types of Identity - Identification",
+          "id": "1qp-msIi2QbanZscJmGqpZa48_6PPCZyB",
+          "anchor": "v-1qp-msIi2QbanZscJmGqpZa48_6PPCZyB",
+          "href": "s3.html#v-1qp-msIi2QbanZscJmGqpZa48_6PPCZyB"
+        },
+        {
+          "number": 3,
+          "title": "Account Access Control and Privilege Management",
+          "id": "1qqaT1aNohRS0Hv93uX0AfdguqmzFUVO0",
+          "anchor": "v-1qqaT1aNohRS0Hv93uX0AfdguqmzFUVO0",
+          "href": "s3.html#v-1qqaT1aNohRS0Hv93uX0AfdguqmzFUVO0"
+        },
+        {
+          "number": 4,
+          "title": "File Access Control Windows Linux",
+          "id": "1r-7nbZcTUSG_Zvpec2JBGT8zOwPeGluU",
+          "anchor": "v-1r-7nbZcTUSG_Zvpec2JBGT8zOwPeGluU",
+          "href": "s3.html#v-1r-7nbZcTUSG_Zvpec2JBGT8zOwPeGluU"
+        },
+        {
+          "number": 5,
+          "title": "AAA Servers",
+          "id": "1qYKhwa4xBM-7wh3QKRfGfpf7hrhQj-_c",
+          "anchor": "v-1qYKhwa4xBM-7wh3QKRfGfpf7hrhQj-_c",
+          "href": "s3.html#v-1qYKhwa4xBM-7wh3QKRfGfpf7hrhQj-_c"
+        },
+        {
+          "number": 6,
+          "title": "Different Types of Authentication and Authentication Management",
+          "id": "1qi0Orw9DOgZPLDINi0_NjsJShVD5dkhT",
+          "anchor": "v-1qi0Orw9DOgZPLDINi0_NjsJShVD5dkhT",
+          "href": "s3.html#v-1qi0Orw9DOgZPLDINi0_NjsJShVD5dkhT"
+        },
+        {
+          "number": 7,
+          "title": "Different Existing Authentication and Authorization Mechanisms",
+          "id": "1qiAE7AGgjjRxmTdl0vRmSYBdm_oZXnel",
+          "anchor": "v-1qiAE7AGgjjRxmTdl0vRmSYBdm_oZXnel",
+          "href": "s3.html#v-1qiAE7AGgjjRxmTdl0vRmSYBdm_oZXnel"
+        },
+        {
+          "number": 8,
+          "title": "Account Control Practices and Policies",
+          "id": "1qieZmgLuGdsjvaFr4oONTNvmTLUl0cBp",
+          "anchor": "v-1qieZmgLuGdsjvaFr4oONTNvmTLUl0cBp",
+          "href": "s3.html#v-1qieZmgLuGdsjvaFr4oONTNvmTLUl0cBp"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Secure Network Design and Concept",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "OSI Model",
+          "id": "1r333Jea1lTIoDUTFpemOUKsusYpt0bpO",
+          "anchor": "v-1r333Jea1lTIoDUTFpemOUKsusYpt0bpO",
+          "href": "s4.html#v-1r333Jea1lTIoDUTFpemOUKsusYpt0bpO"
+        },
+        {
+          "number": 2,
+          "title": "Honeypots Proxy Servers Jump Servers Load Balancers",
+          "id": "1r3jTu0ScAkmz9fOI47ctYAltFR9Qx_73",
+          "anchor": "v-1r3jTu0ScAkmz9fOI47ctYAltFR9Qx_73",
+          "href": "s4.html#v-1r3jTu0ScAkmz9fOI47ctYAltFR9Qx_73"
+        },
+        {
+          "number": 3,
+          "title": "Routers Switches ACL Loop Protection",
+          "id": "1r7ZTh-by2IuRrNxoDCX-7RgOte0mcVLx",
+          "anchor": "v-1r7ZTh-by2IuRrNxoDCX-7RgOte0mcVLx",
+          "href": "s4.html#v-1r7ZTh-by2IuRrNxoDCX-7RgOte0mcVLx"
+        },
+        {
+          "number": 4,
+          "title": "Firewalls",
+          "id": "1r7eNRFsbOMVffw81MN-ehsV8KmQnzl0f",
+          "anchor": "v-1r7eNRFsbOMVffw81MN-ehsV8KmQnzl0f",
+          "href": "s4.html#v-1r7eNRFsbOMVffw81MN-ehsV8KmQnzl0f"
+        },
+        {
+          "number": 5,
+          "title": "Network Segmentation",
+          "id": "1rBxeKqrloOP3YFAp0RDu2l8LLLrQPoK-",
+          "anchor": "v-1rBxeKqrloOP3YFAp0RDu2l8LLLrQPoK-",
+          "href": "s4.html#v-1rBxeKqrloOP3YFAp0RDu2l8LLLrQPoK-"
+        },
+        {
+          "number": 6,
+          "title": "IDS IPS NAC",
+          "id": "1rIHDHRXGFrtLtNM9J6vzgj9oEr3d793w",
+          "anchor": "v-1rIHDHRXGFrtLtNM9J6vzgj9oEr3d793w",
+          "href": "s4.html#v-1rIHDHRXGFrtLtNM9J6vzgj9oEr3d793w"
+        },
+        {
+          "number": 7,
+          "title": "DNS DNS Security",
+          "id": "1rNYevJPwFBK1yKQVl_i7jpnhuPA7WiO_",
+          "anchor": "v-1rNYevJPwFBK1yKQVl_i7jpnhuPA7WiO_",
+          "href": "s4.html#v-1rNYevJPwFBK1yKQVl_i7jpnhuPA7WiO_"
+        },
+        {
+          "number": 8,
+          "title": "IP Addresses",
+          "id": "1rSY2PHqiG3h0BUo3L-1jd2ugCBNNqhDf",
+          "anchor": "v-1rSY2PHqiG3h0BUo3L-1jd2ugCBNNqhDf",
+          "href": "s4.html#v-1rSY2PHqiG3h0BUo3L-1jd2ugCBNNqhDf"
+        },
+        {
+          "number": 9,
+          "title": "Dynamic Host Configuration Protocol DHCP",
+          "id": "1rTWGrQjTaXPEXd5MFRS2XrojETlDJm6x",
+          "anchor": "v-1rTWGrQjTaXPEXd5MFRS2XrojETlDJm6x",
+          "href": "s4.html#v-1rTWGrQjTaXPEXd5MFRS2XrojETlDJm6x"
+        },
+        {
+          "number": 10,
+          "title": "Virtual Private Network VPN",
+          "id": "1rVIOADQEdRyweqd1nfPWeGJhQsennPjm",
+          "anchor": "v-1rVIOADQEdRyweqd1nfPWeGJhQsennPjm",
+          "href": "s4.html#v-1rVIOADQEdRyweqd1nfPWeGJhQsennPjm"
+        },
+        {
+          "number": 11,
+          "title": "Networking Tools - Commands",
+          "id": "1rWi6TZguT20A9YZF23u_Qb1JHLYt6D3H",
+          "anchor": "v-1rWi6TZguT20A9YZF23u_Qb1JHLYt6D3H",
+          "href": "s4.html#v-1rWi6TZguT20A9YZF23u_Qb1JHLYt6D3H"
+        },
+        {
+          "number": 12,
+          "title": "File Manipulation Tools - Commands",
+          "id": "1rbmGxa9QXZgTcA8UWDd3It5NFzMOrHCP",
+          "anchor": "v-1rbmGxa9QXZgTcA8UWDd3It5NFzMOrHCP",
+          "href": "s4.html#v-1rbmGxa9QXZgTcA8UWDd3It5NFzMOrHCP"
+        },
+        {
+          "number": 13,
+          "title": "Forensic Tools - Commands",
+          "id": "1rg9PZGhZIfozKI3EG-M3TJQ3xTyInwDo",
+          "anchor": "v-1rg9PZGhZIfozKI3EG-M3TJQ3xTyInwDo",
+          "href": "s4.html#v-1rg9PZGhZIfozKI3EG-M3TJQ3xTyInwDo"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Security Protocols",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Transmission Control Protocol TCP and User Datagram Protocol UDP",
+          "id": "1rjD3VxffWidp83N5HRKpIwU7sEoQbo4m",
+          "anchor": "v-1rjD3VxffWidp83N5HRKpIwU7sEoQbo4m",
+          "href": "s5.html#v-1rjD3VxffWidp83N5HRKpIwU7sEoQbo4m"
+        },
+        {
+          "number": 2,
+          "title": "Unsecure Protocols",
+          "id": "1rja8CcsT9WwYkpU3VLHycBtuiQe-HlkP",
+          "anchor": "v-1rja8CcsT9WwYkpU3VLHycBtuiQe-HlkP",
+          "href": "s5.html#v-1rja8CcsT9WwYkpU3VLHycBtuiQe-HlkP"
+        },
+        {
+          "number": 3,
+          "title": "Secure Protocols",
+          "id": "1rkl1xEoh5RtQ5tFy4F3VeXBZSQnawLQr",
+          "anchor": "v-1rkl1xEoh5RtQ5tFy4F3VeXBZSQnawLQr",
+          "href": "s5.html#v-1rkl1xEoh5RtQ5tFy4F3VeXBZSQnawLQr"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Wireless and Mobile Security",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Wireless Infrastructure",
+          "id": "1rmTIQ2jbNy0J2kVmSLLmfLDgIgs7CQSz",
+          "anchor": "v-1rmTIQ2jbNy0J2kVmSLLmfLDgIgs7CQSz",
+          "href": "s6.html#v-1rmTIQ2jbNy0J2kVmSLLmfLDgIgs7CQSz"
+        },
+        {
+          "number": 2,
+          "title": "Wireless Encryption and Threats",
+          "id": "1rzpDiz4DXbe5Qplwfc__yWuP23HcOT9r",
+          "anchor": "v-1rzpDiz4DXbe5Qplwfc__yWuP23HcOT9r",
+          "href": "s6.html#v-1rzpDiz4DXbe5Qplwfc__yWuP23HcOT9r"
+        },
+        {
+          "number": 3,
+          "title": "Wireless Authentication Protocols",
+          "id": "1s42Z3Vo6PuA3X8u2EDvRw1K44zNVRbND",
+          "anchor": "v-1s42Z3Vo6PuA3X8u2EDvRw1K44zNVRbND",
+          "href": "s6.html#v-1s42Z3Vo6PuA3X8u2EDvRw1K44zNVRbND"
+        },
+        {
+          "number": 4,
+          "title": "Mobile Device Connection and Communication Methods",
+          "id": "1sFxJhDHTed6vkjlo5_x2D_KGKOOfql5i",
+          "anchor": "v-1sFxJhDHTed6vkjlo5_x2D_KGKOOfql5i",
+          "href": "s6.html#v-1sFxJhDHTed6vkjlo5_x2D_KGKOOfql5i"
+        },
+        {
+          "number": 5,
+          "title": "Mobile Device Management",
+          "id": "1sHk0zVHMjYFn2IufbjuqjMuD7qXlpW4_",
+          "anchor": "v-1sHk0zVHMjYFn2IufbjuqjMuD7qXlpW4_",
+          "href": "s6.html#v-1sHk0zVHMjYFn2IufbjuqjMuD7qXlpW4_"
+        },
+        {
+          "number": 6,
+          "title": "Mobile Device Monitoring and Protection",
+          "id": "1scT7m-G5kCKEj_rRFI4vMqE3Dt8kYqIg",
+          "anchor": "v-1scT7m-G5kCKEj_rRFI4vMqE3Dt8kYqIg",
+          "href": "s6.html#v-1scT7m-G5kCKEj_rRFI4vMqE3Dt8kYqIg"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Virtualization and Cloud Security",
+      "page": "s7.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Virtualization Theory",
+          "id": "1seRfXu5ePvEi86oceSV15pXM1Cvbjwrz",
+          "anchor": "v-1seRfXu5ePvEi86oceSV15pXM1Cvbjwrz",
+          "href": "s7.html#v-1seRfXu5ePvEi86oceSV15pXM1Cvbjwrz"
+        },
+        {
+          "number": 2,
+          "title": "Virtual Box Demonstration",
+          "id": "1sfGUdlb1_HiKCwNVUntAw4oDZwogYt2N",
+          "anchor": "v-1sfGUdlb1_HiKCwNVUntAw4oDZwogYt2N",
+          "href": "s7.html#v-1sfGUdlb1_HiKCwNVUntAw4oDZwogYt2N"
+        },
+        {
+          "number": 3,
+          "title": "Cloud Technology",
+          "id": "1sk6VAkKjUxwhtNh8ZHMpqYKYS9V6nkVI",
+          "anchor": "v-1sk6VAkKjUxwhtNh8ZHMpqYKYS9V6nkVI",
+          "href": "s7.html#v-1sk6VAkKjUxwhtNh8ZHMpqYKYS9V6nkVI"
+        },
+        {
+          "number": 4,
+          "title": "Cloud Services",
+          "id": "1skvnYnHh0VJxC9_ceSiycP8JxmBQw3uk",
+          "anchor": "v-1skvnYnHh0VJxC9_ceSiycP8JxmBQw3uk",
+          "href": "s7.html#v-1skvnYnHh0VJxC9_ceSiycP8JxmBQw3uk"
+        },
+        {
+          "number": 5,
+          "title": "Storing Data in Cloud and Cloud Security",
+          "id": "1sqiYmPcqsBrViza8YahvSmkCyLxUPVih",
+          "anchor": "v-1sqiYmPcqsBrViza8YahvSmkCyLxUPVih",
+          "href": "s7.html#v-1sqiYmPcqsBrViza8YahvSmkCyLxUPVih"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Physical Security and Facilities Security",
+      "page": "s8.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Physical Security",
+          "id": "1t7HKDTmCAMurxj_lAfCkDZ2hvWl6o38T",
+          "anchor": "v-1t7HKDTmCAMurxj_lAfCkDZ2hvWl6o38T",
+          "href": "s8.html#v-1t7HKDTmCAMurxj_lAfCkDZ2hvWl6o38T"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Monitoring Scanning Hacking",
+      "page": "s9.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is Penetration Testing",
+          "id": "1t8WrSEu-rzmGxJfiDgvi_lJGkyDektEL",
+          "anchor": "v-1t8WrSEu-rzmGxJfiDgvi_lJGkyDektEL",
+          "href": "s9.html#v-1t8WrSEu-rzmGxJfiDgvi_lJGkyDektEL"
+        },
+        {
+          "number": 2,
+          "title": "Different Phases of a Penetration Test",
+          "id": "1tAgkWZ5aUbe5r5BkO9uxndS6-gA47KYW",
+          "anchor": "v-1tAgkWZ5aUbe5r5BkO9uxndS6-gA47KYW",
+          "href": "s9.html#v-1tAgkWZ5aUbe5r5BkO9uxndS6-gA47KYW"
+        },
+        {
+          "number": 3,
+          "title": "Different Teams in Cyber Security",
+          "id": "1tIGZ-sJuf_vgj9S9y3AijG7UnK2hzv0K",
+          "anchor": "v-1tIGZ-sJuf_vgj9S9y3AijG7UnK2hzv0K",
+          "href": "s9.html#v-1tIGZ-sJuf_vgj9S9y3AijG7UnK2hzv0K"
+        },
+        {
+          "number": 4,
+          "title": "Vulnerabilities",
+          "id": "1tLWRUBaq_yBzwJHwR3gYysraZ1yteBoY",
+          "anchor": "v-1tLWRUBaq_yBzwJHwR3gYysraZ1yteBoY",
+          "href": "s9.html#v-1tLWRUBaq_yBzwJHwR3gYysraZ1yteBoY"
+        },
+        {
+          "number": 5,
+          "title": "Monitoring",
+          "id": "1tLrCXPUu2xODp0B0Q56RUNofJBaOaBvG",
+          "anchor": "v-1tLrCXPUu2xODp0B0Q56RUNofJBaOaBvG",
+          "href": "s9.html#v-1tLrCXPUu2xODp0B0Q56RUNofJBaOaBvG"
+        },
+        {
+          "number": 6,
+          "title": "Exercise Imposter Syndrome",
+          "id": "1taj9d4TdKswP5otme_6BMtblmI3FaZaH",
+          "anchor": "v-1taj9d4TdKswP5otme_6BMtblmI3FaZaH",
+          "href": "s9.html#v-1taj9d4TdKswP5otme_6BMtblmI3FaZaH"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Threats Attacks Vulnerabilities",
+      "page": "s10.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Different Types of Attackers",
+          "id": "1njOOU2PlYWNxJGm5PqgjW-bL-Qyhw5bj",
+          "anchor": "v-1njOOU2PlYWNxJGm5PqgjW-bL-Qyhw5bj",
+          "href": "s10.html#v-1njOOU2PlYWNxJGm5PqgjW-bL-Qyhw5bj"
+        },
+        {
+          "number": 2,
+          "title": "Different Types of Malware",
+          "id": "1nplan2aWLux-iWOq9RzAZT_2cpsT9A2F",
+          "anchor": "v-1nplan2aWLux-iWOq9RzAZT_2cpsT9A2F",
+          "href": "s10.html#v-1nplan2aWLux-iWOq9RzAZT_2cpsT9A2F"
+        },
+        {
+          "number": 3,
+          "title": "Social Engineering Phishing",
+          "id": "1nsZDoniC27JcsNXYp8h4HQUf5VNL-Fko",
+          "anchor": "v-1nsZDoniC27JcsNXYp8h4HQUf5VNL-Fko",
+          "href": "s10.html#v-1nsZDoniC27JcsNXYp8h4HQUf5VNL-Fko"
+        },
+        {
+          "number": 4,
+          "title": "Network Attacks",
+          "id": "1nt7XsdDY2u46Qxjmxle5ZdoL_dVd9tqm",
+          "anchor": "v-1nt7XsdDY2u46Qxjmxle5ZdoL_dVd9tqm",
+          "href": "s10.html#v-1nt7XsdDY2u46Qxjmxle5ZdoL_dVd9tqm"
+        },
+        {
+          "number": 5,
+          "title": "Physical Attacks",
+          "id": "1oAwkKLEdgx62LLNbyCryn3kMJYeCYDh6",
+          "anchor": "v-1oAwkKLEdgx62LLNbyCryn3kMJYeCYDh6",
+          "href": "s10.html#v-1oAwkKLEdgx62LLNbyCryn3kMJYeCYDh6"
+        },
+        {
+          "number": 6,
+          "title": "Password Attacks",
+          "id": "1oHdqolvV99jXqBuXFwl1mk0LVbFjooNS",
+          "anchor": "v-1oHdqolvV99jXqBuXFwl1mk0LVbFjooNS",
+          "href": "s10.html#v-1oHdqolvV99jXqBuXFwl1mk0LVbFjooNS"
+        },
+        {
+          "number": 7,
+          "title": "Overflow Attacks Pointer Dereference Error Handling",
+          "id": "1oOdtc1VrnweYf54upVuccFKEj44JaCu3",
+          "anchor": "v-1oOdtc1VrnweYf54upVuccFKEj44JaCu3",
+          "href": "s10.html#v-1oOdtc1VrnweYf54upVuccFKEj44JaCu3"
+        },
+        {
+          "number": 8,
+          "title": "Application Attacks Injection Attacks",
+          "id": "1oVr_2XIXZVGjXFaBMSstaZ4XfR_Rss6R",
+          "anchor": "v-1oVr_2XIXZVGjXFaBMSstaZ4XfR_Rss6R",
+          "href": "s10.html#v-1oVr_2XIXZVGjXFaBMSstaZ4XfR_Rss6R"
+        },
+        {
+          "number": 9,
+          "title": "Zero Days and Weak Configurations",
+          "id": "1o_qOuwpSKmHXkp9dWkyaFRVktp-FwR-O",
+          "anchor": "v-1o_qOuwpSKmHXkp9dWkyaFRVktp-FwR-O",
+          "href": "s10.html#v-1o_qOuwpSKmHXkp9dWkyaFRVktp-FwR-O"
+        },
+        {
+          "number": 10,
+          "title": "Hijacking Attacks",
+          "id": "1oeUnTAHvvbKlBz01SjC1XrKAg_fzZ_bb",
+          "anchor": "v-1oeUnTAHvvbKlBz01SjC1XrKAg_fzZ_bb",
+          "href": "s10.html#v-1oeUnTAHvvbKlBz01SjC1XrKAg_fzZ_bb"
+        },
+        {
+          "number": 11,
+          "title": "Cryptographic Attacks",
+          "id": "1oemMGOCqs8c1aBD3qknQNmzKImrYX1i9",
+          "anchor": "v-1oemMGOCqs8c1aBD3qknQNmzKImrYX1i9",
+          "href": "s10.html#v-1oemMGOCqs8c1aBD3qknQNmzKImrYX1i9"
+        },
+        {
+          "number": 12,
+          "title": "Third Party Attacks",
+          "id": "1okioIGvV4WRdUpNlzTperdpwtO1jJ9vR",
+          "anchor": "v-1okioIGvV4WRdUpNlzTperdpwtO1jJ9vR",
+          "href": "s10.html#v-1okioIGvV4WRdUpNlzTperdpwtO1jJ9vR"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "System Hardening and Application Testing",
+      "page": "s11.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Host Security Boot",
+          "id": "1onyM0c9MZHUn6UhztEW_qpbcOw-F4cLG",
+          "anchor": "v-1onyM0c9MZHUn6UhztEW_qpbcOw-F4cLG",
+          "href": "s11.html#v-1onyM0c9MZHUn6UhztEW_qpbcOw-F4cLG"
+        },
+        {
+          "number": 2,
+          "title": "Endpoint Protection Strategy",
+          "id": "1osxUukpMDuWrO41yHXdoiOvRwDiwcf7N",
+          "anchor": "v-1osxUukpMDuWrO41yHXdoiOvRwDiwcf7N",
+          "href": "s11.html#v-1osxUukpMDuWrO41yHXdoiOvRwDiwcf7N"
+        },
+        {
+          "number": 3,
+          "title": "System Hardening",
+          "id": "1otSvyOZXUn0bzN3EPvstykMCLbKOvF6U",
+          "anchor": "v-1otSvyOZXUn0bzN3EPvstykMCLbKOvF6U",
+          "href": "s11.html#v-1otSvyOZXUn0bzN3EPvstykMCLbKOvF6U"
+        },
+        {
+          "number": 4,
+          "title": "Inbuilt Devices and Specialized Devices",
+          "id": "1oz_lBDlKyBhgJ-UwRNBOFnSuzPMBs5BY",
+          "anchor": "v-1oz_lBDlKyBhgJ-UwRNBOFnSuzPMBs5BY",
+          "href": "s11.html#v-1oz_lBDlKyBhgJ-UwRNBOFnSuzPMBs5BY"
+        },
+        {
+          "number": 5,
+          "title": "Secure Application Development and Secure Coding",
+          "id": "1p9q7vE4AaahG9Cx9T6ixAfMCZTmHsllH",
+          "anchor": "v-1p9q7vE4AaahG9Cx9T6ixAfMCZTmHsllH",
+          "href": "s11.html#v-1p9q7vE4AaahG9Cx9T6ixAfMCZTmHsllH"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Risk Management",
+      "page": "s12.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Concept of Risk and Risk Types",
+          "id": "1pBOkt6_tb9of0hNNeIup0oJJECAbfjAF",
+          "anchor": "v-1pBOkt6_tb9of0hNNeIup0oJJECAbfjAF",
+          "href": "s12.html#v-1pBOkt6_tb9of0hNNeIup0oJJECAbfjAF"
+        },
+        {
+          "number": 2,
+          "title": "Risk Control and Analysis",
+          "id": "1pCgYyS-2L8L3LcbSzT9bePh6RSnvENM1",
+          "anchor": "v-1pCgYyS-2L8L3LcbSzT9bePh6RSnvENM1",
+          "href": "s12.html#v-1pCgYyS-2L8L3LcbSzT9bePh6RSnvENM1"
+        },
+        {
+          "number": 3,
+          "title": "Business Impact Analysis",
+          "id": "1pSdGI3Uix5daYHi-2i_moFjYNR7tKV4_",
+          "anchor": "v-1pSdGI3Uix5daYHi-2i_moFjYNR7tKV4_",
+          "href": "s12.html#v-1pSdGI3Uix5daYHi-2i_moFjYNR7tKV4_"
+        },
+        {
+          "number": 4,
+          "title": "Security Information Groups and Sources",
+          "id": "1pShtZ09QYMkiZNxxxioK8_dVjlbjjhhW",
+          "anchor": "v-1pShtZ09QYMkiZNxxxioK8_dVjlbjjhhW",
+          "href": "s12.html#v-1pShtZ09QYMkiZNxxxioK8_dVjlbjjhhW"
+        },
+        {
+          "number": 5,
+          "title": "Facility Policies and Rules",
+          "id": "1pSvTflkMHVpor-Xqt-ZkPuYeJSxGOABA",
+          "anchor": "v-1pSvTflkMHVpor-Xqt-ZkPuYeJSxGOABA",
+          "href": "s12.html#v-1pSvTflkMHVpor-Xqt-ZkPuYeJSxGOABA"
+        },
+        {
+          "number": 6,
+          "title": "Laws and Standards",
+          "id": "1pdmT1VZChHU5tWPhuuPebijphic_aNtZ",
+          "anchor": "v-1pdmT1VZChHU5tWPhuuPebijphic_aNtZ",
+          "href": "s12.html#v-1pdmT1VZChHU5tWPhuuPebijphic_aNtZ"
+        },
+        {
+          "number": 7,
+          "title": "Data Handling",
+          "id": "1pfgxSyC53p6ucva2WYoXOZsHnbpOIvhW",
+          "anchor": "v-1pfgxSyC53p6ucva2WYoXOZsHnbpOIvhW",
+          "href": "s12.html#v-1pfgxSyC53p6ucva2WYoXOZsHnbpOIvhW"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Incident Responding and Forensics",
+      "page": "s13.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Incident Response and Recovery Practices",
+          "id": "1pgSgGIKBCe1gQFBueLC9Ca5trOmlViMj",
+          "anchor": "v-1pgSgGIKBCe1gQFBueLC9Ca5trOmlViMj",
+          "href": "s13.html#v-1pgSgGIKBCe1gQFBueLC9Ca5trOmlViMj"
+        },
+        {
+          "number": 2,
+          "title": "Information Gathering for Incident Response",
+          "id": "1pgT7tZUcaR1RzfnBEiRJm2JtLUpLTWHD",
+          "anchor": "v-1pgT7tZUcaR1RzfnBEiRJm2JtLUpLTWHD",
+          "href": "s13.html#v-1pgT7tZUcaR1RzfnBEiRJm2JtLUpLTWHD"
+        },
+        {
+          "number": 3,
+          "title": "Controls and Techniques for Lowering Risk",
+          "id": "1pgb5vuyZOf5xJ6eW5BXqhKb5e1knrEo4",
+          "anchor": "v-1pgb5vuyZOf5xJ6eW5BXqhKb5e1knrEo4",
+          "href": "s13.html#v-1pgb5vuyZOf5xJ6eW5BXqhKb5e1knrEo4"
+        },
+        {
+          "number": 4,
+          "title": "Redundancy and Tolerance",
+          "id": "1pw0LqKlIn1HHY3EuAlSUL8psr5gaPFfS",
+          "anchor": "v-1pw0LqKlIn1HHY3EuAlSUL8psr5gaPFfS",
+          "href": "s13.html#v-1pw0LqKlIn1HHY3EuAlSUL8psr5gaPFfS"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Cryptography and Public Key Infrastructure PKI",
+      "page": "s14.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Symmetric and Asymmetric Encryption",
+          "id": "1q-cwhI5SSet1KDE7NDsNjWW3WFFtvGe4",
+          "anchor": "v-1q-cwhI5SSet1KDE7NDsNjWW3WFFtvGe4",
+          "href": "s14.html#v-1q-cwhI5SSet1KDE7NDsNjWW3WFFtvGe4"
+        },
+        {
+          "number": 2,
+          "title": "Concept of Public Key Infrastructure",
+          "id": "1q-vkdD-rFZWBvhPa8cZRgP-rOuoLAXZ2",
+          "anchor": "v-1q-vkdD-rFZWBvhPa8cZRgP-rOuoLAXZ2",
+          "href": "s14.html#v-1q-vkdD-rFZWBvhPa8cZRgP-rOuoLAXZ2"
+        },
+        {
+          "number": 3,
+          "title": "Important Cryptographic Terms and Concepts",
+          "id": "1q3HgLpRJV2hbwoV8AC74RdC3cQdmgsqO",
+          "anchor": "v-1q3HgLpRJV2hbwoV8AC74RdC3cQdmgsqO",
+          "href": "s14.html#v-1q3HgLpRJV2hbwoV8AC74RdC3cQdmgsqO"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "Where To Go From Here",
+      "page": "s15.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Thank You",
+          "id": "1qItvbUXqF8HqllCZtXGuyHxYekMsPoPV",
+          "anchor": "v-1qItvbUXqF8HqllCZtXGuyHxYekMsPoPV",
+          "href": "s15.html#v-1qItvbUXqF8HqllCZtXGuyHxYekMsPoPV"
+        }
+      ]
+    }
+  ]
+}
